@@ -1,0 +1,15 @@
+C:\Users\ka_ka\Desktop\ExemplosPOO\ExemplosAbstracao\bin\Debug\net6.0\ExemplosAbstracao.exe
+C:\Users\ka_ka\Desktop\ExemplosPOO\ExemplosAbstracao\bin\Debug\net6.0\ExemplosAbstracao.deps.json
+C:\Users\ka_ka\Desktop\ExemplosPOO\ExemplosAbstracao\bin\Debug\net6.0\ExemplosAbstracao.runtimeconfig.json
+C:\Users\ka_ka\Desktop\ExemplosPOO\ExemplosAbstracao\bin\Debug\net6.0\ExemplosAbstracao.dll
+C:\Users\ka_ka\Desktop\ExemplosPOO\ExemplosAbstracao\bin\Debug\net6.0\ref\ExemplosAbstracao.dll
+C:\Users\ka_ka\Desktop\ExemplosPOO\ExemplosAbstracao\bin\Debug\net6.0\ExemplosAbstracao.pdb
+C:\Users\ka_ka\Desktop\ExemplosPOO\ExemplosAbstracao\obj\Debug\net6.0\ExemplosAbstracao.csproj.AssemblyReference.cache
+C:\Users\ka_ka\Desktop\ExemplosPOO\ExemplosAbstracao\obj\Debug\net6.0\ExemplosAbstracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ka_ka\Desktop\ExemplosPOO\ExemplosAbstracao\obj\Debug\net6.0\ExemplosAbstracao.AssemblyInfoInputs.cache
+C:\Users\ka_ka\Desktop\ExemplosPOO\ExemplosAbstracao\obj\Debug\net6.0\ExemplosAbstracao.AssemblyInfo.cs
+C:\Users\ka_ka\Desktop\ExemplosPOO\ExemplosAbstracao\obj\Debug\net6.0\ExemplosAbstracao.csproj.CoreCompileInputs.cache
+C:\Users\ka_ka\Desktop\ExemplosPOO\ExemplosAbstracao\obj\Debug\net6.0\ExemplosAbstracao.dll
+C:\Users\ka_ka\Desktop\ExemplosPOO\ExemplosAbstracao\obj\Debug\net6.0\ref\ExemplosAbstracao.dll
+C:\Users\ka_ka\Desktop\ExemplosPOO\ExemplosAbstracao\obj\Debug\net6.0\ExemplosAbstracao.pdb
+C:\Users\ka_ka\Desktop\ExemplosPOO\ExemplosAbstracao\obj\Debug\net6.0\ExemplosAbstracao.genruntimeconfig.cache
